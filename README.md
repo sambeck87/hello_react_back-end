@@ -37,6 +37,8 @@
 This application allows you to:
 
 - Receive random greeting messages
+
+**This is the front-end URL project** https://github.com/sambeck87/hello_react_front-end
  <br></br>
 
 ## 🛠 Built With <a name="built-with"></a>
